@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css?family=Rakkas');
+
+body{
+  background-color:#232728;
+  overflow:hidden;
+  font-family:'Rakkas';
+}
+
+#pixiCanvas{
+  position:absolute;
+}
+
+.title{
+  position:absolute;
+  left:50%;
+  top:50%;
+  text-align:center;
+  transform:translate(-50%, -50%);
+  color:#DBAB4C;
+  font-size:4em;
+}
+
